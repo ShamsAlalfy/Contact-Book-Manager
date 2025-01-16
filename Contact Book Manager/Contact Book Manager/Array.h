@@ -29,11 +29,11 @@ public:
     {
         data = new T[capacity];
     }
-    Array(size_t size) :size(size), capacity(size)
+    Array(size_t size) :size(size), capacity(size+1)
     {
         data = new T[capacity];
     }
-    Array(size_t size, T initialVal) :size(size), capacity(size)
+    Array(size_t size, T initialVal) :size(size), capacity(size+1)
     {
         data = new T[capacity];
         for (int i = 0; i < size; i++)
