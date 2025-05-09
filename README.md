@@ -1,5 +1,8 @@
 #  Contact Book Manager Application 
 
+![UML](https://github.com/ShamsAlalfy/Contact-Book-Manager/blob/main/Contact%20Book%20Manager/Contact%20UML.jpg)
+
+
  A C++ application that implements a fully functional **Contact Book** using a custom `Array` data structure. The program allows you to add, search, delete, update, and manage contacts efficiently with features for:
 
 - **Classification** (Friends, Work, Family, Others, Favorites)
@@ -55,6 +58,4 @@
 
 ---
 
-## **UML**
 
-![UML](https://github.com/ShamsAlalfy/Contact-Book-Manager/blob/main/Contact%20Book%20Manager/Contact%20UML.jpg)
